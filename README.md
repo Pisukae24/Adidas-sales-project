@@ -204,27 +204,5 @@ Special attention was given to the visual design of the dashboard:
 
 A well-designed dashboard improves usability and impact.
 
----
-
-## 📈 Business Insights Generated
-
-This dashboard provides valuable insights such as:
-
-* Identification of top-performing products.
-* Understanding which regions drive maximum revenue.
-* Detection of seasonal demand patterns.
-* Comparison of retailer performance.
-* Evaluation of profitability across categories.
-* Tracking sales growth over time.
-
-These insights support strategic planning and business optimization.
 
 
-
-
-
-
-
-
-
-Just tell me 👍
